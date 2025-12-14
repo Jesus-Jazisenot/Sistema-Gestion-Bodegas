@@ -313,9 +313,9 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu.email@ejemplo.com
+- GitHub: [@jesus_jazisenot](https://github.com/jesus-jazisenot)
+- LinkedIn: [Jazisenot](https://linkedin.com/in/tu-perfil) (inactivo por el momento)
+- Email: jesusantoniorodriguez110@gmail.com
 
 ## 📄 Licencia
 
